@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Bakery\Bakery\bin\Debug\Bakery.exe.config
+C:\Users\Admin\source\repos\Bakery\Bakery\bin\Debug\Bakery.exe
+C:\Users\Admin\source\repos\Bakery\Bakery\bin\Debug\Bakery.pdb
+C:\Users\Admin\source\repos\Bakery\Bakery\bin\Debug\Bakery.xml
+C:\Users\Admin\source\repos\Bakery\Bakery\obj\Debug\Bakery.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Bakery\Bakery\obj\Debug\Bakery.Form1.resources
+C:\Users\Admin\source\repos\Bakery\Bakery\obj\Debug\Bakery.Resources.resources
+C:\Users\Admin\source\repos\Bakery\Bakery\obj\Debug\Bakery.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bakery\Bakery\obj\Debug\Bakery.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bakery\Bakery\obj\Debug\Bakery.exe
+C:\Users\Admin\source\repos\Bakery\Bakery\obj\Debug\Bakery.xml
+C:\Users\Admin\source\repos\Bakery\Bakery\obj\Debug\Bakery.pdb
+C:\Users\Admin\source\repos\Bakery\Bakery\obj\Debug\Bakery.Form2.resources
